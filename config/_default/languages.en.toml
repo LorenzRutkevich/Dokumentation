@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "SeesDisease"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "SeesDisease BWKI Dokumentation"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Lorenz Rutkevich"
+  image = "img/avatar.png"
+  headline = "SeesDisease"
+  bio = "Kluge Mikroskopie"
+   links = [
+     { link = "https://lorenz-rutkevich.info/" },
+     { github = "https://github.com/LorenzRutkevich" },
+     { linkedin = "https://www.linkedin.com/in/lorenz-rutkevich/" }
+   ]

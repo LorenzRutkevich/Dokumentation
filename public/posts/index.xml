@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SeesDisease</title>
+    <title>Posts on SHIFT</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on SeesDisease</description>
+    <description>Recent content in Posts on SHIFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ablationsstudie der SHIFT-Architektur</title>
+      <link>http://localhost:1313/posts/ablation/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ablation/</guid>
+      <description>Eine detaillierte Analyse, wie verschiedene Konfigurationskomponenten der SHIFT-Architektur die Segmentierungsleistung beeinflussen.</description>
+      
+    </item>
+    
     <item>
       <title>Das Modell im Überblick</title>
       <link>http://localhost:1313/posts/network/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/network/</guid>
-      <description>Das Eff-ResSepUTransNet, ein Hybridmodel, das CNNs und Transformer in medizinisches ein Segmentationsmodell verschmilzt.</description>
+      <description>Das ESRUT-Net, ein Hybridmodel, das CNNs und Transformer in medizinisches ein Segmentationsmodell verschmilzt.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/network/cover.png" />
     </item>
     
@@ -29,22 +39,12 @@
     </item>
     
     <item>
-      <title>Der KI-gestützte Autofokus</title>
-      <link>http://localhost:1313/posts/ai-autofocus/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/ai-autofocus/</guid>
-      <description>Ein kluger Autofokus, der den momentanen Fokus klassifiziert und so den besten Fokuspunkt herausfindet.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ai-autofocus/cover.jpg" />
-    </item>
-    
-    <item>
       <title>Die Interaktive Segmentation im Überblick</title>
       <link>http://localhost:1313/posts/interactive/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/interactive/</guid>
-      <description>Mittels Punkten zu einer vollen und präzisen Segmentation von Zellkernen und Zellstrukturen.</description>
+      <description>Mittels wenigen Klicks zu einer vollen und präzisen Segmentierung von Zellkernen und Zellstrukturen – und darüber hinaus: universelle Ansätze für ungelenkte Segmentierungsaufgaben.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/interactive/cover.png" />
     </item>
     
@@ -54,7 +54,7 @@
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/datensatz/</guid>
-      <description>Für das Training der Modelle von SeesDisease wurde ein eigener Datensatz erstellt, der viele Gewebestrukturen präzise abdeckt.</description>
+      <description>Für das Training der Modelle von SHIFT wurde ein eigener Datensatz erstellt, der viele Gewebestrukturen präzise abdeckt.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datensatz/cover.png" />
     </item>
     

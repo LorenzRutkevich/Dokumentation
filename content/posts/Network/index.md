@@ -1,17 +1,17 @@
 ---
 title:  "Das Modell im Überblick"
-summary: "Das Eff-ResSepUTransNet, ein Hybridmodel, das CNNs und Transformer in medizinisches ein Segmentationsmodell verschmilzt."
+summary: "Das ESRUT-Net, ein Hybridmodel, das CNNs und Transformer in medizinisches ein Segmentationsmodell verschmilzt."
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-06
 draft: false
 ---
 
-![Das Eff-ResSepUTransNet](images/Eff-ResSepNet.drawio.png)  
+![Das ESRUT-Net](images/Eff-ResSepNet.drawio.png)  
 
 ### Architektur
 
-Die Architektur des Eff-ResSepUTransNet basiert auf einem Encoder-Decoder-Modell mit einem U-Net-ähnlichen Verlauf. Neben klassischen CNN-Blöcken sind Transformer-Blöcke sowie vortrainierte Layer integriert.
+Die Architektur des ESRUT-Net basiert auf einem Encoder-Decoder-Modell mit einem U-Net-ähnlichen Verlauf. Neben klassischen CNN-Blöcken sind Transformer-Blöcke sowie vortrainierte Layer integriert.
 
 ---
 

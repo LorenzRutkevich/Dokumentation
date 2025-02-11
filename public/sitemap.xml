@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/ablation/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/network/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,12 +27,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ai-autofocus/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/interactive/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,12 +34,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/datensatz/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

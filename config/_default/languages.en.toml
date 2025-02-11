@@ -1,21 +1,21 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "SeesDisease"
+title = "SHIFT"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
-  description = "SeesDisease BWKI Dokumentation"
+  description = "SHIFT BWKI Dokumentation"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
 [params.author]
   name = "Lorenz Rutkevich"
   image = "img/avatar.png"
-  headline = "SeesDisease"
+  headline = "SHIFT: Semantic Hybrid Interactive Feature Transformer"
   bio = "Kluge Mikroskopie"
    links = [
      { link = "https://lorenz-rutkevich.info/" },
